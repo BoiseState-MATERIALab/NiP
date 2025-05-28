@@ -9,7 +9,9 @@ More details on the generation of this database and on its use for training neur
 `Md. S. Khan, N. Artith, and O. Andreussi, "Understanding Structure-Composition-Property Relationships of Ni-P Bulk Metallic Glasses", under review (2025)` 
 
 ## Authors
+
 **Md. Sharif Khan**, Department of Chemistry and Biochemistry, Boise State University
+
 **Oliviero Andreussi**, Department of Chemistry and Biochemistry, Boise State University
 
 ## Structure of the Dataset
@@ -28,5 +30,7 @@ The authors thank Dr. Sundeep Mukherjee for the initial discussions that started
 ## References
 
 [1] H. W. Sheng, E. Ma, M. J. Kramer, "Relating Dynamic Properties to Atomic Structure in Metallic Glasses," *JOM*, vol. 64, no. 2, pp. 856–865, 2012. [https://doi.org/10.1007/s11837-012-0360-y](https://doi.org/10.1007/s11837-012-0360-y)
+
 [2] P. Giannozzi et al., "QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials", J. Phys.: Cond. Mat., 39, 395502 (2009), [https://doi.org/10.1088/0953-8984/21/39/395502](https://doi.org/10.1088/0953-8984/21/39/395502)
+
 [3] J. López-Zorrilla, X. M. Aretxabaleta, I.W. Yeu, I. Etxebarria, H. Manzano, and N. Artrith,"ænet-PyTorch: A GPU-supported implementation for machine learning atomic potentials training", J. Chem. Phys., 158, 164105 (2023), [https://doi.org/10.1063/5.0146803](https://doi.org/10.1063/5.0146803).
